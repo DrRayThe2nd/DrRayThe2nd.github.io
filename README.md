@@ -1,2 +1,2 @@
 # drraythe2nd.github.io
-My custom wishlist
+My own website!
